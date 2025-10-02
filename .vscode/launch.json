@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Heap",
+      "request": "launch",
+      "mainClass": "Heap",
+      "projectName": "pesquisa-ordenacao_5af46273"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
